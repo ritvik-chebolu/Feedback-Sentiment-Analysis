@@ -1,2 +1,3 @@
 # Feedback-Sentiment-Analysis
-This notebook uses a python library to predict the sentiment of feedback input by the user in real-time.
+
+This project code uses nltk (Natural Language Toolkit) python library for statistical natural language processing and analyzes the user input statements (or user feedback) to determine if they make a positive, negaitive or neutral sense based on sentiment and polarity scores.
